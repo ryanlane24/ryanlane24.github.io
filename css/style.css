@@ -8,3 +8,9 @@ p.center {
 }
 
 <h2 style="background-color:rgb(255, 165, 0);">rgb(255, 165, 0)</h2>
+
+iframe
+{
+    width:70%;
+    height:500px;
+}
